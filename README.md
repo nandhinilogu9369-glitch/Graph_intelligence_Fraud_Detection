@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Graph Intelligence Platform for Fraud Detection
 
 ## 🎯 Project Objective
@@ -98,6 +97,5 @@ These outputs validate the correctness of the fraud detection logic.
 This project demonstrates how **graph intelligence** can uncover fraud patterns that are difficult to detect using traditional ML approaches.
 
 The emphasis is on **explainability, reasoning, and structural insights**, making the system suitable for fraud analysis and investigation workflows.
+
 =======
-# Graph_intelligence_Fraud_Detection
->>>>>>> 7a31499adffb4841215280010d8845959b605ebb
